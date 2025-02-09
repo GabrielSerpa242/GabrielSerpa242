@@ -9,22 +9,19 @@ Me chamo Gabriel Marcilio Serpa, tenho 22 anos e sou de Americana do interior de
         <img 
             alt="Linkedin" 
             title="Linkedin" 
-            src=https://img.shields.io/badge/LinkedIn-Gabriel%20Serpa-blue?style=for-the-badge&logo=linkedin&logoColor=white
-        />
+            src=https://img.shields.io/badge/LinkedIn-Gabriel%20Serpa-blue?style=for-the-badge&logo=linkedin&logoColor=white >
         </a> 
     <a href="https://github.com/GabrielSerpa242?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/GabrielSerpa242?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        /> 
+            src="https://custom-icon-badges.demolab.com/github/stars/GabrielSerpa242?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" > 
     </a>
     <a href="https://github.com/GabrielSerpa242?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/GabrielSerpa242?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
+            src="https://custom-icon-badges.demolab.com/github/followers/GabrielSerpa242?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white">
     </a>
 </p>
 
