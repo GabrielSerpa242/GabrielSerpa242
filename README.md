@@ -1,16 +1,16 @@
-# 👩🏻‍💻 Gabriel 
+# 👨‍💻 Gabriel Serpa
 
 **`Desenvolvedor`**
 
 Me chamo Gabriel Marcilio Serpa, tenho 22 anos e sou de Americana do interior de São Paulo. Atualmente, estou cursando Engenharia da Computação na Univesp. Sou apaixonado por tecnologia e robótica compartilho alguns dos meus projetos qui no Github, e também através do Instagram, com o perfil chamado "[Gabriels242](https://www.instagram.com/gabriels242/)".
 <p
-    </a> 
-    <a href="https://github.com/GabrielSerpa242?tab=repositories&sort=stargazers">
+        a>
+    <a href="https://www.linkedin.com/in/gabriel-serpa242/">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/GabrielSerpa242?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        /> 
+            alt="Linkedin" 
+            title="Linkedin" 
+            src=https://img.shields.io/badge/LinkedIn-Gabriel%20Serpa-blue?style=for-the-badge&logo=linkedin&logoColor=white
+        />
         </a> 
     <a href="https://github.com/GabrielSerpa242?tab=repositories&sort=stargazers">
         <img 
