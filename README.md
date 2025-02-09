@@ -19,12 +19,13 @@ Me chamo Gabriel Marcilio Serpa, tenho 22 anos e sou de Americana do interior de
             src="https://custom-icon-badges.demolab.com/github/stars/GabrielSerpa242?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         /> 
     </a>
-    <a href="https://www.linkedin.com/in/gabriel-serpa242/">
+    <a href="https://github.com/GabrielSerpa242?tab=followers">
         <img 
-            alt="Linkedin" 
-            title="Linkedin" 
-            src="https://custom-icon-badges.demolab.com/linkedin/stars/gabriel-serpa242?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/GabrielSerpa242?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
+    </a>
 </p>
 
 ---
