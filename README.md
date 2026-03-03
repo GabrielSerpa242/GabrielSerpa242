@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo Gabriel Marcilio Serpa, tenho 23 anos e sou de Americana do interior de São Paulo. Atualmente, estou cursando Engenharia da Computação na Univesp. Sou apaixonado por tecnologia e robótica compartilho alguns dos meus projetos aqui no Github, e também através do Instagram, com o perfil chamado "[Gabriels242](https://www.instagram.com/gabriels242/)".
+Me chamo Gabriel Marcilio Serpa, tenho 24 anos e sou de Americana do interior de São Paulo. Atualmente, estou fazendo estagio na SEDUC como estagiario de TI e cursando Engenharia da Computação na Univesp. Sou apaixonado por dados, desenvolvimento de software e robótica compartilho alguns dos meus projetos aqui no Github, e também através do Instagram, com o perfil chamado "[Gabriels242](https://www.instagram.com/gabriels242/)".
 <p
         a>
     <a href="https://www.linkedin.com/in/gabriel-serpa242/">
