@@ -87,7 +87,7 @@ Me chamo Gabriel Marcilio Serpa, tenho 24 anos e sou de Americana do interior de
 
 <p align="left">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=GabrielSerpa242&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    <img src="https://github-readme-stats.vercel.app/api?username=GabrielSerpa242&show_icons=true&theme=tokyonight&locale=pt-br&cache=1" /> 
     alt="GitHub Stats" 
     height="160" 
     style="padding-right: 10px;" 
