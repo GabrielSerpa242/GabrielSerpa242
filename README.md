@@ -97,5 +97,5 @@ Me chamo Gabriel Marcilio Serpa, tenho 24 anos e sou de Americana do interior de
   align="right" 
   alt="Linguagens mais usadas" 
   height="180" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSerpa242&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielSerpa242&theme=tokyonight)" 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielSerpa242&theme=tokyonight" 
 />
